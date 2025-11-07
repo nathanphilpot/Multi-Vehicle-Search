@@ -1,0 +1,2557 @@
+[
+    {
+        "location_id": "42b8f068-2d13-4ed1-8eec-c98f1eef0850",
+        "listing_ids": [
+            "b9bbe25f-5679-4917-bd7b-1e19c464f3a8"
+        ],
+        "total_price_in_cents": 1005
+    },
+    {
+        "location_id": "507628b8-163e-4e22-a6a3-6a16f8188928",
+        "listing_ids": [
+            "e7d59481-b804-4565-b49b-d5beb7aec350"
+        ],
+        "total_price_in_cents": 1088
+    },
+    {
+        "location_id": "822cff3c-b5bf-4b43-99d1-eda5aadc5e08",
+        "listing_ids": [
+            "e0b35ea7-96f3-4178-a11f-c14a98656f5b"
+        ],
+        "total_price_in_cents": 1150
+    },
+    {
+        "location_id": "ef513824-e381-40b3-aeac-76a8edbe91ed",
+        "listing_ids": [
+            "e09c90d3-be3a-47b0-ad28-ef31455e066d"
+        ],
+        "total_price_in_cents": 1157
+    },
+    {
+        "location_id": "a2f0d1a2-674b-4df5-be26-5e8e0d68da66",
+        "listing_ids": [
+            "6dd85961-4f10-4db2-b51b-a7ee6468dd03"
+        ],
+        "total_price_in_cents": 1192
+    },
+    {
+        "location_id": "36f4f24f-1e80-403e-b854-72104d96c662",
+        "listing_ids": [
+            "ba370477-9f5c-43c7-9474-ad773f365ff8"
+        ],
+        "total_price_in_cents": 1233
+    },
+    {
+        "location_id": "45dcfcc2-6cdd-485e-b5c4-c3515ffbd7b1",
+        "listing_ids": [
+            "21eb8b72-430d-45d0-a5a4-ad142368e6a5"
+        ],
+        "total_price_in_cents": 1307
+    },
+    {
+        "location_id": "bfc3dd19-6b75-4c05-9743-ec2ab6037fb8",
+        "listing_ids": [
+            "2678e920-aaab-406a-8b45-c6d9a2dcd73d"
+        ],
+        "total_price_in_cents": 1376
+    },
+    {
+        "location_id": "54f7858d-27e4-42ee-adff-e173fb421f63",
+        "listing_ids": [
+            "760aba2e-4589-4178-9720-42d729e32814"
+        ],
+        "total_price_in_cents": 1399
+    },
+    {
+        "location_id": "f400af6d-5aee-4025-bb96-475629bcd3db",
+        "listing_ids": [
+            "acc82f09-06ba-4038-8c22-353f329ec138"
+        ],
+        "total_price_in_cents": 1601
+    },
+    {
+        "location_id": "37abf436-5f7d-4146-bc17-0ff3c9527a9e",
+        "listing_ids": [
+            "2b01a112-2b38-42e6-a176-f0d55c602b58"
+        ],
+        "total_price_in_cents": 1617
+    },
+    {
+        "location_id": "fe0c4696-d355-4499-a7bd-616ca6a48541",
+        "listing_ids": [
+            "45fb3f2c-7b2d-44fe-86e0-baf4794bc034"
+        ],
+        "total_price_in_cents": 1988
+    },
+    {
+        "location_id": "6809ac14-1b66-4eed-9c26-3777f9fe43d9",
+        "listing_ids": [
+            "b7352217-2cf1-4e44-a814-a25843ee4e53"
+        ],
+        "total_price_in_cents": 2221
+    },
+    {
+        "location_id": "231391d2-af5d-4e30-ae96-6888f9acdb25",
+        "listing_ids": [
+            "98cb3b32-87ae-49ba-9ff4-11548b962b6b"
+        ],
+        "total_price_in_cents": 2246
+    },
+    {
+        "location_id": "cb4283d0-b38a-4f69-a420-2952c0e3877f",
+        "listing_ids": [
+            "fbb9bcc3-4ec7-481d-9b97-511de2b21cc7"
+        ],
+        "total_price_in_cents": 2272
+    },
+    {
+        "location_id": "87837b85-57f0-48b1-8c46-d3e5aa663506",
+        "listing_ids": [
+            "589a98cf-5ad4-437c-9f1f-ec2cc5f608f1"
+        ],
+        "total_price_in_cents": 2323
+    },
+    {
+        "location_id": "851dc8c6-d09c-46f4-ba15-1834ce6bdd11",
+        "listing_ids": [
+            "f1690c17-c7d5-46c2-b0a0-f26ee3459670"
+        ],
+        "total_price_in_cents": 2509
+    },
+    {
+        "location_id": "9211156f-0b83-45ef-a29b-600122014704",
+        "listing_ids": [
+            "d22575a6-1447-4bf5-945c-c455ad34cb80"
+        ],
+        "total_price_in_cents": 2533
+    },
+    {
+        "location_id": "4068067c-1caf-40b2-b97c-cb021abbd680",
+        "listing_ids": [
+            "5cf54195-abff-411e-b01d-e3b867fb4127"
+        ],
+        "total_price_in_cents": 2692
+    },
+    {
+        "location_id": "3a068c09-b312-44b7-ba11-057e35d1fc25",
+        "listing_ids": [
+            "d73ad3b4-4f93-4345-9bd9-373a427251b8"
+        ],
+        "total_price_in_cents": 2695
+    },
+    {
+        "location_id": "5d7cc8d6-c887-4b6c-8325-e3dbacd4835f",
+        "listing_ids": [
+            "72c1b7bc-4a40-4a3c-a816-3b30713a4c79"
+        ],
+        "total_price_in_cents": 2762
+    },
+    {
+        "location_id": "de31f49e-e151-493b-ab5f-076e76823019",
+        "listing_ids": [
+            "e9611152-dfce-4008-8f3f-62983c641e62"
+        ],
+        "total_price_in_cents": 2792
+    },
+    {
+        "location_id": "616fa27e-5764-482e-acfc-3eb4c1dc3ad0",
+        "listing_ids": [
+            "1cd6ef94-d9a7-40fa-8952-d4047d7f00a2"
+        ],
+        "total_price_in_cents": 2821
+    },
+    {
+        "location_id": "4bbc1b06-5501-4770-8fa2-6edda319df55",
+        "listing_ids": [
+            "1279cb58-5b70-4971-8002-3b94c47dfd07"
+        ],
+        "total_price_in_cents": 2862
+    },
+    {
+        "location_id": "8edc3468-417b-4ef6-853f-4aecab435dee",
+        "listing_ids": [
+            "b13f3552-0a1d-4289-8998-127684540c94"
+        ],
+        "total_price_in_cents": 2878
+    },
+    {
+        "location_id": "1c4ffa95-bdb6-4eb2-a3f7-63d8dd954bbc",
+        "listing_ids": [
+            "82a504bb-686f-428d-90a8-8b3f2c020bef"
+        ],
+        "total_price_in_cents": 3004
+    },
+    {
+        "location_id": "2c77f1c3-f448-4b61-904f-db7806704bbe",
+        "listing_ids": [
+            "8901a209-d7de-4536-a496-c079370404d5"
+        ],
+        "total_price_in_cents": 3174
+    },
+    {
+        "location_id": "65cf0fa5-b060-414f-9665-3ea993b9de69",
+        "listing_ids": [
+            "d1ec6c19-c130-471c-a3c7-0b0f678d59be"
+        ],
+        "total_price_in_cents": 3259
+    },
+    {
+        "location_id": "d95f6eec-a193-4e90-a483-8878a214f22c",
+        "listing_ids": [
+            "414689fc-8239-46e0-816e-424df0d7b652"
+        ],
+        "total_price_in_cents": 3379
+    },
+    {
+        "location_id": "c8356003-3323-40ca-bef7-34302cf5584e",
+        "listing_ids": [
+            "d1aca1d4-e269-48f2-bbd4-900a7b88a718"
+        ],
+        "total_price_in_cents": 3501
+    },
+    {
+        "location_id": "72400399-0dac-4bb2-b236-eeb4ed258ea0",
+        "listing_ids": [
+            "7b34ada3-3f66-4bb8-b2b8-adcb542edbf9"
+        ],
+        "total_price_in_cents": 3511
+    },
+    {
+        "location_id": "8f37466c-072f-479b-b30b-7c4f3830d3d3",
+        "listing_ids": [
+            "76107119-b700-48c1-8fb9-57a166f88267"
+        ],
+        "total_price_in_cents": 3552
+    },
+    {
+        "location_id": "c273f70b-e31c-459a-b903-a263c13f282c",
+        "listing_ids": [
+            "b13c1884-02f6-47d8-8c7f-fa3ac060d4fd"
+        ],
+        "total_price_in_cents": 3576
+    },
+    {
+        "location_id": "5fa61d63-5705-413d-8e19-fff119d53780",
+        "listing_ids": [
+            "535b0c30-b42e-47e4-b5aa-6460d40ec31a"
+        ],
+        "total_price_in_cents": 3796
+    },
+    {
+        "location_id": "9d95947e-7609-4742-a3d7-ca198768c89a",
+        "listing_ids": [
+            "9bff6114-b2de-4045-839e-29fa4292341e"
+        ],
+        "total_price_in_cents": 3895
+    },
+    {
+        "location_id": "a87a0edd-b0e5-4f30-a10d-2dad53b1023e",
+        "listing_ids": [
+            "519045df-0ae7-424a-a587-514425ab050b"
+        ],
+        "total_price_in_cents": 3943
+    },
+    {
+        "location_id": "bf681072-f752-4f5e-84ca-72f7e928eb7a",
+        "listing_ids": [
+            "44e4161d-6e86-4ffc-a756-2955b15b7bff"
+        ],
+        "total_price_in_cents": 4011
+    },
+    {
+        "location_id": "b4123f67-b4c2-4f9c-bce4-bc8618e0da5b",
+        "listing_ids": [
+            "b7a8f997-9922-42df-88db-227be6c047f1"
+        ],
+        "total_price_in_cents": 4155
+    },
+    {
+        "location_id": "b530fc17-3ba5-4160-9794-d48d53d28fdd",
+        "listing_ids": [
+            "48166ef8-23fb-410e-97ea-5dda3267bdb0"
+        ],
+        "total_price_in_cents": 4463
+    },
+    {
+        "location_id": "957f7a36-2119-492b-bb00-52b2d04df38c",
+        "listing_ids": [
+            "3295351c-a923-4557-bbca-92d836d13046"
+        ],
+        "total_price_in_cents": 4585
+    },
+    {
+        "location_id": "f9da1a1f-18a4-4e92-8b01-abc78e63f9b9",
+        "listing_ids": [
+            "e3a30a4c-7c61-4487-9c0c-384bb19edf58"
+        ],
+        "total_price_in_cents": 4745
+    },
+    {
+        "location_id": "d830711e-1f80-4958-a035-b5367ba3d587",
+        "listing_ids": [
+            "82114447-a9fd-4b7a-9c6e-ab33ccd4838c"
+        ],
+        "total_price_in_cents": 4996
+    },
+    {
+        "location_id": "ca8aedc7-d109-4f79-938a-4e1aec709914",
+        "listing_ids": [
+            "78d146f8-628f-4b19-8898-f87e7aacac40"
+        ],
+        "total_price_in_cents": 5094
+    },
+    {
+        "location_id": "74481e61-072d-4d6c-a2ff-7b597fbbda7f",
+        "listing_ids": [
+            "05e5c28d-634a-4267-baa1-9ceb190ab1f9"
+        ],
+        "total_price_in_cents": 5392
+    },
+    {
+        "location_id": "a61426c1-94a4-4105-afdc-2e3948440e41",
+        "listing_ids": [
+            "f9861bff-4f08-44d0-9ba7-0b214c3c30bc"
+        ],
+        "total_price_in_cents": 5637
+    },
+    {
+        "location_id": "697e59c6-2dc7-4844-9eac-e69d96c5aa0e",
+        "listing_ids": [
+            "cd42c2b8-6ca6-4916-83f7-418c951881a5"
+        ],
+        "total_price_in_cents": 5656
+    },
+    {
+        "location_id": "712bcdc5-16cf-4858-b12b-9231aa3d8868",
+        "listing_ids": [
+            "9c74b26a-328a-4bef-8f9a-a439a8d16b5c"
+        ],
+        "total_price_in_cents": 5661
+    },
+    {
+        "location_id": "854925cd-6820-4a02-b31c-6bae21a4e85f",
+        "listing_ids": [
+            "b30ddddd-9e64-44c2-a1e7-a130ba31c6d6"
+        ],
+        "total_price_in_cents": 5702
+    },
+    {
+        "location_id": "5a8a3d6d-0a93-43a1-a961-433b813009fc",
+        "listing_ids": [
+            "6e8031ee-9cb3-4420-8cc9-25c6749a2dae"
+        ],
+        "total_price_in_cents": 5711
+    },
+    {
+        "location_id": "3ff9fcdd-8f25-4bc4-8fa2-ec464120e7ef",
+        "listing_ids": [
+            "bca2fd4b-2e16-4128-afee-9bec0f4f7915"
+        ],
+        "total_price_in_cents": 5779
+    },
+    {
+        "location_id": "fb47f25c-41a7-4c05-bbea-39b1f4f41716",
+        "listing_ids": [
+            "2f7f67bb-77d9-410f-8fbd-c2d67fd7f5f9"
+        ],
+        "total_price_in_cents": 5800
+    },
+    {
+        "location_id": "6c8ce0e6-ed53-4ce7-90e2-a2a7d6947b62",
+        "listing_ids": [
+            "ea814de1-fe1a-40c7-88db-efc3d7fed00d"
+        ],
+        "total_price_in_cents": 5895
+    },
+    {
+        "location_id": "d0212f0d-c488-4c82-a784-2d9af02f6689",
+        "listing_ids": [
+            "4fd4439a-8e1e-4377-8572-577375d31daa"
+        ],
+        "total_price_in_cents": 6062
+    },
+    {
+        "location_id": "f91f3b9f-3828-47e6-ba2e-c52e91909bb5",
+        "listing_ids": [
+            "5fe5a36d-9d50-417e-9233-0477e1c1b24d"
+        ],
+        "total_price_in_cents": 6130
+    },
+    {
+        "location_id": "34716f3d-de4a-4512-ad7e-fc01380cd138",
+        "listing_ids": [
+            "3353b0e6-47ee-4259-aacc-04daff63eb9c"
+        ],
+        "total_price_in_cents": 6307
+    },
+    {
+        "location_id": "52fb4dc0-7817-4f4d-8791-f3bcbbbc6ce3",
+        "listing_ids": [
+            "74216c26-f2b8-4601-a97c-70c597265820"
+        ],
+        "total_price_in_cents": 6577
+    },
+    {
+        "location_id": "cb0f3ed1-6147-4e62-94f6-f9ecad16cdb1",
+        "listing_ids": [
+            "84c58b25-796d-4a07-a25f-03c685e595e6"
+        ],
+        "total_price_in_cents": 6683
+    },
+    {
+        "location_id": "9a1c0239-c7c9-4e0f-a0dc-a69bd9b7ba16",
+        "listing_ids": [
+            "07b0c413-36a6-4b94-bf73-0781d863dab1"
+        ],
+        "total_price_in_cents": 6782
+    },
+    {
+        "location_id": "34ace64b-15ac-44d1-9b3a-ab88f90c793e",
+        "listing_ids": [
+            "f304e4c4-d06d-4201-a9a5-b0ff9aae443f"
+        ],
+        "total_price_in_cents": 6814
+    },
+    {
+        "location_id": "cd4bcad7-ba4a-4c3b-a008-070acd38ef1a",
+        "listing_ids": [
+            "f3e18f0a-4dff-4b20-b713-3a4395e34791"
+        ],
+        "total_price_in_cents": 7022
+    },
+    {
+        "location_id": "f0317a0c-c3a8-404d-a2a6-48dfa3f9d935",
+        "listing_ids": [
+            "bc57bc46-4c71-4c61-b536-cab1f2da6615"
+        ],
+        "total_price_in_cents": 7051
+    },
+    {
+        "location_id": "b6893aac-fb26-416e-92c7-1c50d95463ce",
+        "listing_ids": [
+            "2213d790-9641-4ac1-b56f-9883ac54ec1a"
+        ],
+        "total_price_in_cents": 7160
+    },
+    {
+        "location_id": "d0b0d8d0-1c5d-4c38-8ad0-c5b5c3653d08",
+        "listing_ids": [
+            "0ea8ad8b-062f-407e-a174-0118f599d552"
+        ],
+        "total_price_in_cents": 7234
+    },
+    {
+        "location_id": "f869dc8f-410b-4cee-a007-c2fccd380bf9",
+        "listing_ids": [
+            "a54c64f6-e7f7-4044-9996-db3a5ea9963d"
+        ],
+        "total_price_in_cents": 7398
+    },
+    {
+        "location_id": "643d0372-3a8f-4e48-939f-93e55ab006c3",
+        "listing_ids": [
+            "c82cd18d-077e-41d2-bc91-9c68f47d6ade"
+        ],
+        "total_price_in_cents": 7589
+    },
+    {
+        "location_id": "3533520e-d76b-4e63-ac29-1d819f608ada",
+        "listing_ids": [
+            "adbf1667-70e5-41a8-bfbe-30546dfe7b27"
+        ],
+        "total_price_in_cents": 7615
+    },
+    {
+        "location_id": "19aa214f-f3c6-46da-b6f0-a4fdcbbd00dd",
+        "listing_ids": [
+            "7ff26b03-a625-45fa-9491-54872f4ca4be"
+        ],
+        "total_price_in_cents": 7703
+    },
+    {
+        "location_id": "beb6b4e6-8379-4c64-8ef6-612e4ef9ec18",
+        "listing_ids": [
+            "e86e8da6-7052-41ca-8116-ee592791b8e4"
+        ],
+        "total_price_in_cents": 7707
+    },
+    {
+        "location_id": "3d18a452-16e7-4f7e-89f1-a045262c4bed",
+        "listing_ids": [
+            "0304d47d-78e4-4489-9bd5-dfa54773be13"
+        ],
+        "total_price_in_cents": 7753
+    },
+    {
+        "location_id": "cb088247-44d0-45aa-b1d4-ff43ff6b4d20",
+        "listing_ids": [
+            "2fc3e373-a61e-4cc6-8c74-7ac1be703da7"
+        ],
+        "total_price_in_cents": 7859
+    },
+    {
+        "location_id": "b2ae82f8-add5-4cb7-88ae-f20012535494",
+        "listing_ids": [
+            "b3ad22f0-18ba-4efd-ae73-69c794f85d1f"
+        ],
+        "total_price_in_cents": 8016
+    },
+    {
+        "location_id": "afb2398d-d4ae-4c66-8c29-7ccfd2cd0c09",
+        "listing_ids": [
+            "d5445afc-2049-4b5f-8df1-f362eeaaf281"
+        ],
+        "total_price_in_cents": 8375
+    },
+    {
+        "location_id": "cd245f42-a311-4a58-a816-d069d421b00c",
+        "listing_ids": [
+            "53fca8dd-4018-4d5e-a417-4caf33cfbcfe"
+        ],
+        "total_price_in_cents": 8387
+    },
+    {
+        "location_id": "b3cd8bf7-c27b-4c17-887d-5267cf69ab5c",
+        "listing_ids": [
+            "690b9880-5716-4875-8bdc-0f9603311e87"
+        ],
+        "total_price_in_cents": 8423
+    },
+    {
+        "location_id": "ac0ab9fd-3112-4c2b-b44d-5a2f5209194c",
+        "listing_ids": [
+            "bd837860-51d0-4bb3-9ef2-93af8e0265fd"
+        ],
+        "total_price_in_cents": 8511
+    },
+    {
+        "location_id": "2c3d9284-afb4-4c9d-bf9c-3f464e266d4c",
+        "listing_ids": [
+            "d7e00277-82c6-4e36-aeef-05f867bc65f5"
+        ],
+        "total_price_in_cents": 8578
+    },
+    {
+        "location_id": "8348040c-314d-4f8e-b49e-e5bc558333b7",
+        "listing_ids": [
+            "8ff649cf-282f-4b82-94cc-8c840ed1ea61"
+        ],
+        "total_price_in_cents": 8590
+    },
+    {
+        "location_id": "147c5934-15fb-4345-9988-96ec7d0d1329",
+        "listing_ids": [
+            "e101b054-1de0-4e31-a081-fa33ff224d57"
+        ],
+        "total_price_in_cents": 9075
+    },
+    {
+        "location_id": "6d9286b8-a569-40ea-9168-16363ae68b04",
+        "listing_ids": [
+            "39e732cf-03c8-40b3-900a-94eca3bc3f09"
+        ],
+        "total_price_in_cents": 9154
+    },
+    {
+        "location_id": "3d7c07ac-8e44-4b68-8a8a-bd9eb8189fc4",
+        "listing_ids": [
+            "a292a52a-ffef-4b8b-af67-e7aafc56c769"
+        ],
+        "total_price_in_cents": 9419
+    },
+    {
+        "location_id": "2fbfae8d-7635-488a-a6e6-cb43c3efbcaf",
+        "listing_ids": [
+            "efb66033-efb4-455e-8469-1bb77bd7a755"
+        ],
+        "total_price_in_cents": 9469
+    },
+    {
+        "location_id": "917ae3b9-87e6-4717-b77a-9d3313bcf5c8",
+        "listing_ids": [
+            "b9bb232f-4569-4cb7-95e3-270d7c70c5c1"
+        ],
+        "total_price_in_cents": 9541
+    },
+    {
+        "location_id": "77e16f2b-9361-4e65-ba12-026748860d41",
+        "listing_ids": [
+            "31ab6fef-c0d2-467a-9163-a9f94a391791"
+        ],
+        "total_price_in_cents": 9612
+    },
+    {
+        "location_id": "bea76389-4999-4861-a2ad-66f891dfd36f",
+        "listing_ids": [
+            "2ef1b8e0-823d-4d49-ba85-254bfc01adb1"
+        ],
+        "total_price_in_cents": 9703
+    },
+    {
+        "location_id": "118bc0eb-3685-4bc9-984f-369d09c3b71c",
+        "listing_ids": [
+            "454358f5-ffee-4124-82b5-c1170331d644"
+        ],
+        "total_price_in_cents": 9747
+    },
+    {
+        "location_id": "215b3845-cb4c-4952-80a4-7c62bbf0376f",
+        "listing_ids": [
+            "998261dd-c49f-442d-97ff-8475fb1a025a"
+        ],
+        "total_price_in_cents": 9862
+    },
+    {
+        "location_id": "c6820e97-fa60-486a-8d35-07aa79289023",
+        "listing_ids": [
+            "6d33a103-b77a-4cfb-83a5-957813ec4183"
+        ],
+        "total_price_in_cents": 10013
+    },
+    {
+        "location_id": "8d40c95a-29e9-4d19-862a-d86e761bc4c7",
+        "listing_ids": [
+            "0b45b7b7-4c29-4fac-bd1b-adfcc4c14596"
+        ],
+        "total_price_in_cents": 10062
+    },
+    {
+        "location_id": "4954426d-5292-48a3-a5f0-f886fdd9e404",
+        "listing_ids": [
+            "a65bce59-f2da-4a6e-a5d1-9e8c2534610b"
+        ],
+        "total_price_in_cents": 10124
+    },
+    {
+        "location_id": "617cb317-2761-4bbd-a434-d4221d73be66",
+        "listing_ids": [
+            "41d5deaf-05f7-4bc5-8dc4-ceecaaf3b95e"
+        ],
+        "total_price_in_cents": 10255
+    },
+    {
+        "location_id": "66acae7e-da66-427e-a1be-ddad020f8554",
+        "listing_ids": [
+            "0f9a796a-3d4f-4c30-aecc-f31082a2c9a5"
+        ],
+        "total_price_in_cents": 10442
+    },
+    {
+        "location_id": "1854d883-bf04-474c-8822-d5f22f871f24",
+        "listing_ids": [
+            "1e2b0e26-cedc-4092-90aa-b124f00c6764"
+        ],
+        "total_price_in_cents": 10655
+    },
+    {
+        "location_id": "50480d17-ead2-4ee4-9423-7a82b59cbd13",
+        "listing_ids": [
+            "aa3dbcae-0d69-4274-88b9-316acb50edb0"
+        ],
+        "total_price_in_cents": 10700
+    },
+    {
+        "location_id": "2fad3dce-69ce-45f7-99f4-aace954fcd8b",
+        "listing_ids": [
+            "33adbd54-58a4-4d06-b006-2c6fd8c78669"
+        ],
+        "total_price_in_cents": 10851
+    },
+    {
+        "location_id": "22130bf5-de9b-4d0b-bb1b-2b3d5a512673",
+        "listing_ids": [
+            "99a872cf-11e7-49bc-8ba2-e27f16d137ef"
+        ],
+        "total_price_in_cents": 11170
+    },
+    {
+        "location_id": "d53a0324-a6ac-4fa4-b11f-21f93db5de61",
+        "listing_ids": [
+            "72994a74-efaa-4bd1-9fb2-14750f001de3"
+        ],
+        "total_price_in_cents": 11293
+    },
+    {
+        "location_id": "33f1ba18-dcd3-4073-80f5-050ddefe0844",
+        "listing_ids": [
+            "98956106-0e01-4ff6-85e5-216ea79a42e8"
+        ],
+        "total_price_in_cents": 11702
+    },
+    {
+        "location_id": "e350ff74-de0c-4e18-8efe-1b676edf4d81",
+        "listing_ids": [
+            "074d4e5a-7062-4f8a-8603-d2059a194480"
+        ],
+        "total_price_in_cents": 11753
+    },
+    {
+        "location_id": "a892d70a-3b63-478d-987c-f356aed063c8",
+        "listing_ids": [
+            "5b038a7b-6426-4a64-86f2-b6053c68d75d"
+        ],
+        "total_price_in_cents": 11782
+    },
+    {
+        "location_id": "26893556-a4fc-4c95-bb27-2734f2daae77",
+        "listing_ids": [
+            "cd4f9185-4398-4094-b6b8-8e17866e1b84"
+        ],
+        "total_price_in_cents": 11820
+    },
+    {
+        "location_id": "849dee78-ea1e-4358-a653-628174bf3cce",
+        "listing_ids": [
+            "d2dcfd95-d6c9-4553-b83b-fd5fe644c96c"
+        ],
+        "total_price_in_cents": 11909
+    },
+    {
+        "location_id": "72bd69fb-8950-4521-a8d0-810c4ebce3f0",
+        "listing_ids": [
+            "bd76bb74-592d-4c79-ac5c-8eefe93bee28"
+        ],
+        "total_price_in_cents": 11931
+    },
+    {
+        "location_id": "f403c990-15db-4791-be9a-4a2d8c7d5b38",
+        "listing_ids": [
+            "5229e792-c273-428b-be17-eb73f075599f"
+        ],
+        "total_price_in_cents": 12123
+    },
+    {
+        "location_id": "fe572e2c-2351-4f88-962d-d150b0519996",
+        "listing_ids": [
+            "cfe448d3-8bd5-4412-9094-1ebc11c22874"
+        ],
+        "total_price_in_cents": 12327
+    },
+    {
+        "location_id": "8b28778c-049e-41eb-acbd-68b86244896a",
+        "listing_ids": [
+            "213591e5-82f6-4d47-951a-b148fa3db387"
+        ],
+        "total_price_in_cents": 12522
+    },
+    {
+        "location_id": "d033689d-4c01-4f04-9bde-4c4bac43c9da",
+        "listing_ids": [
+            "4ee9df32-1f2a-40a8-9145-7235a9053b12"
+        ],
+        "total_price_in_cents": 12655
+    },
+    {
+        "location_id": "e6416987-0574-4930-be29-6e7860463643",
+        "listing_ids": [
+            "a582bcaa-d74f-455b-af08-96e5756ee50a"
+        ],
+        "total_price_in_cents": 12691
+    },
+    {
+        "location_id": "78b073c1-b0de-4aa9-a531-7819f0ffe493",
+        "listing_ids": [
+            "66a962b3-6fd2-476f-92db-e72551c5b5de"
+        ],
+        "total_price_in_cents": 12769
+    },
+    {
+        "location_id": "1a405553-5529-4d48-93c9-06087a5babb4",
+        "listing_ids": [
+            "585e8b23-70b3-41b4-924e-2b18b9fcc8cf"
+        ],
+        "total_price_in_cents": 12774
+    },
+    {
+        "location_id": "dabc72c5-e954-4738-a038-624a37b65c3d",
+        "listing_ids": [
+            "d329355d-1f59-4723-85df-052d86971198"
+        ],
+        "total_price_in_cents": 12895
+    },
+    {
+        "location_id": "7c8efac3-dabf-430e-9265-3ee109d0afaa",
+        "listing_ids": [
+            "4dab954b-332c-406e-b22e-85bafe6cd5bf"
+        ],
+        "total_price_in_cents": 13690
+    },
+    {
+        "location_id": "9df5d6cc-4bce-40d0-aa1f-10cf7e3f1503",
+        "listing_ids": [
+            "87076386-1388-48fc-99e5-fffa3f684599"
+        ],
+        "total_price_in_cents": 13913
+    },
+    {
+        "location_id": "456a88b5-6af1-4469-b205-7050bf0a577e",
+        "listing_ids": [
+            "79b078f2-bc41-4a62-9bb2-7613767d8bd2"
+        ],
+        "total_price_in_cents": 14115
+    },
+    {
+        "location_id": "eb8bfbcb-8702-41c2-a403-055020814c74",
+        "listing_ids": [
+            "dd7c58ec-a6b9-43c8-b8fa-37b493c1ee85"
+        ],
+        "total_price_in_cents": 14270
+    },
+    {
+        "location_id": "7a8a22b7-1373-41a2-a674-ed5c7026f3f1",
+        "listing_ids": [
+            "1d24762f-d82a-4ad9-803c-67dcc6cec6ab"
+        ],
+        "total_price_in_cents": 14378
+    },
+    {
+        "location_id": "1518269e-a212-4ca9-8cd3-102942e57c66",
+        "listing_ids": [
+            "af125ef9-1b78-4d17-9e14-05f3f50dd762"
+        ],
+        "total_price_in_cents": 14809
+    },
+    {
+        "location_id": "179e8c97-429e-40e1-af4d-f70881ff96b5",
+        "listing_ids": [
+            "0814d0b9-ed56-42b6-9f14-f198de187fe9"
+        ],
+        "total_price_in_cents": 14967
+    },
+    {
+        "location_id": "4ca24af2-daa1-4494-9361-71c6a2bbb4ac",
+        "listing_ids": [
+            "fee90bd6-030d-4f45-a6a8-33371dfe9467"
+        ],
+        "total_price_in_cents": 15007
+    },
+    {
+        "location_id": "b63acc74-dc1d-495d-95c1-c1b8cac60c72",
+        "listing_ids": [
+            "832b7f2e-87a1-44f7-b310-4e29e874026b"
+        ],
+        "total_price_in_cents": 15050
+    },
+    {
+        "location_id": "0393e104-6057-4426-80ad-09fe4f7b4dc8",
+        "listing_ids": [
+            "6588f455-b627-4d05-8288-deb6335618bc"
+        ],
+        "total_price_in_cents": 15248
+    },
+    {
+        "location_id": "f075390b-a3ee-4a90-a225-f1462be50114",
+        "listing_ids": [
+            "574f3352-19d8-4175-a003-fcd0e8a6ed6b"
+        ],
+        "total_price_in_cents": 15270
+    },
+    {
+        "location_id": "281b4c83-f437-4050-b1a9-c7d57f22b6ff",
+        "listing_ids": [
+            "76fa7f38-3d44-4296-8185-5045d92402ef"
+        ],
+        "total_price_in_cents": 15424
+    },
+    {
+        "location_id": "bc6a5238-d2fb-4c5f-aed0-1c676f30b285",
+        "listing_ids": [
+            "b1f2b5e8-e17a-4b39-9c89-f2d7c4d0f282"
+        ],
+        "total_price_in_cents": 15519
+    },
+    {
+        "location_id": "21bd530e-a80c-46a3-b371-afd759cb2d71",
+        "listing_ids": [
+            "33642253-0eea-413c-adb1-cfda9e7f036a"
+        ],
+        "total_price_in_cents": 15533
+    },
+    {
+        "location_id": "5e662f64-a4ca-48ef-8aab-8ec6a3ed8ba9",
+        "listing_ids": [
+            "80c8b1b9-2661-43df-b446-1f89491b5e09"
+        ],
+        "total_price_in_cents": 15724
+    },
+    {
+        "location_id": "cb26fdb8-eeb8-4b06-8a7e-69b602675a14",
+        "listing_ids": [
+            "35fb0d2e-0679-412f-a132-eee991869dea"
+        ],
+        "total_price_in_cents": 15907
+    },
+    {
+        "location_id": "e5786027-bb01-4cd2-8bb7-84b12f944eba",
+        "listing_ids": [
+            "ba62a462-b2d5-435a-8d8a-8cd05185f945"
+        ],
+        "total_price_in_cents": 16291
+    },
+    {
+        "location_id": "760ec3ad-5db1-4e81-820b-f15f009d4b5a",
+        "listing_ids": [
+            "741a0213-8512-499e-a8f2-8d3aad664d76"
+        ],
+        "total_price_in_cents": 16293
+    },
+    {
+        "location_id": "59809f4d-34f2-4823-ab58-dbd7f404b149",
+        "listing_ids": [
+            "6f11ecbd-e5df-4b99-ab70-3bf4195a9d44"
+        ],
+        "total_price_in_cents": 16395
+    },
+    {
+        "location_id": "0cba274a-092d-4ab7-bbf5-8717cb23c0ca",
+        "listing_ids": [
+            "4291558e-6dcc-4e98-afde-9ea4241d2cd0"
+        ],
+        "total_price_in_cents": 16623
+    },
+    {
+        "location_id": "cbabdf37-2c26-4140-9ffc-807da5c63599",
+        "listing_ids": [
+            "ca970ba0-7a2d-455a-9e85-ebafe033a146"
+        ],
+        "total_price_in_cents": 16680
+    },
+    {
+        "location_id": "4ca0e518-506e-446a-91e8-c3af92978533",
+        "listing_ids": [
+            "6371b239-8fdb-4f4d-a752-db0f8c6e1e13"
+        ],
+        "total_price_in_cents": 17025
+    },
+    {
+        "location_id": "b902f805-1638-4fe7-b88a-9e4a81ab75b4",
+        "listing_ids": [
+            "31ae3919-782c-4a73-905d-8ba9542e2102"
+        ],
+        "total_price_in_cents": 17319
+    },
+    {
+        "location_id": "1758a989-d264-4dda-93da-94ff90aa876d",
+        "listing_ids": [
+            "1b48523a-7bc6-455b-b29a-29deebb74463"
+        ],
+        "total_price_in_cents": 17324
+    },
+    {
+        "location_id": "e835e25a-17ff-41ac-a147-1e48a1f0a248",
+        "listing_ids": [
+            "af52e5b7-4d55-48c1-8a24-d05ad4169a32"
+        ],
+        "total_price_in_cents": 17416
+    },
+    {
+        "location_id": "da507528-84ee-470e-9140-b839fb5c49ed",
+        "listing_ids": [
+            "d8af366e-5e0c-4025-8f35-03fe0e78d0ee"
+        ],
+        "total_price_in_cents": 17491
+    },
+    {
+        "location_id": "4cc9dcd1-3c43-4dca-bb47-d9f5ae34236f",
+        "listing_ids": [
+            "a2b343d6-4a3a-4fbf-be79-1a72556bf835"
+        ],
+        "total_price_in_cents": 17540
+    },
+    {
+        "location_id": "1ff6826c-e9e2-4626-a0b8-9fac5af201b9",
+        "listing_ids": [
+            "5a1156bb-5fd9-436f-af14-8c2df73e0931"
+        ],
+        "total_price_in_cents": 17553
+    },
+    {
+        "location_id": "6cc8d57d-6387-4dc6-b6c7-83cf84dea5fc",
+        "listing_ids": [
+            "03de9417-fa70-4fa4-a659-ae665f48a870"
+        ],
+        "total_price_in_cents": 17861
+    },
+    {
+        "location_id": "1f43129c-ab63-4810-bfdb-f247f7c0f745",
+        "listing_ids": [
+            "38990b3c-4960-4f57-8f28-025a07f1acde"
+        ],
+        "total_price_in_cents": 18141
+    },
+    {
+        "location_id": "4bd2953c-6566-4ac0-b6ea-9308174dc49b",
+        "listing_ids": [
+            "711fa3f4-2b5b-4b4f-8ce0-4ba6956a1bf6"
+        ],
+        "total_price_in_cents": 18175
+    },
+    {
+        "location_id": "dca42313-14b6-40dc-a34c-567648b1e888",
+        "listing_ids": [
+            "e398de63-3500-46d5-8dd0-b0742bc75860"
+        ],
+        "total_price_in_cents": 18203
+    },
+    {
+        "location_id": "1b420356-6782-479e-bc36-3060cda0c65f",
+        "listing_ids": [
+            "1cc5b434-eee0-454a-94a7-d58ecf7e06f3"
+        ],
+        "total_price_in_cents": 18293
+    },
+    {
+        "location_id": "c84dcfdc-b1ff-4f20-b8c5-154167daacd7",
+        "listing_ids": [
+            "95a35c10-3deb-4591-b851-3f3ce843f695"
+        ],
+        "total_price_in_cents": 18447
+    },
+    {
+        "location_id": "b0568908-befb-4b97-a8e5-4cce2981f49e",
+        "listing_ids": [
+            "92096389-a1dd-4390-a4a9-c7f213a1bf3d"
+        ],
+        "total_price_in_cents": 18596
+    },
+    {
+        "location_id": "b3e969dd-341c-4d5c-83f6-07cd97c2cb6c",
+        "listing_ids": [
+            "98c8f8a2-64a6-41ad-9a07-dc370349f839"
+        ],
+        "total_price_in_cents": 18729
+    },
+    {
+        "location_id": "eea9cdf6-a75d-4bb4-a3ba-4073f5f56ae1",
+        "listing_ids": [
+            "e1d978ea-b81d-4af7-bee7-e1b5a64e4d0b"
+        ],
+        "total_price_in_cents": 18760
+    },
+    {
+        "location_id": "ed4ba8e8-9865-4df4-b7ab-d037e5540a5c",
+        "listing_ids": [
+            "bd311790-1758-4214-92f9-1cc4e42fbaa9"
+        ],
+        "total_price_in_cents": 18809
+    },
+    {
+        "location_id": "cc0892b0-5604-4704-9449-261e0b6a76f4",
+        "listing_ids": [
+            "56e2807b-99e9-4f75-8211-43fece78e9ef"
+        ],
+        "total_price_in_cents": 18963
+    },
+    {
+        "location_id": "bc1d90f2-6b51-4dcb-85d8-21df1e8f9646",
+        "listing_ids": [
+            "4226bf8b-9fe9-4fa1-b6be-7ec85e1ebd77"
+        ],
+        "total_price_in_cents": 19003
+    },
+    {
+        "location_id": "64a89fec-e8a6-45b4-9c95-9284b0873137",
+        "listing_ids": [
+            "6cb533fd-9fa9-4a38-9a94-120c4ae36894"
+        ],
+        "total_price_in_cents": 19039
+    },
+    {
+        "location_id": "7da0eae1-251d-45e3-b2d5-c2d64413b125",
+        "listing_ids": [
+            "edc365b2-fa16-4b16-9984-5cfee965316d"
+        ],
+        "total_price_in_cents": 19079
+    },
+    {
+        "location_id": "5aad1608-16dd-43c8-aef0-90f27d843404",
+        "listing_ids": [
+            "c51bee52-66de-409f-bb2a-4730b307c5d3"
+        ],
+        "total_price_in_cents": 19143
+    },
+    {
+        "location_id": "579cc174-2709-4231-9691-6cf5e025258b",
+        "listing_ids": [
+            "d8aa2553-a788-4cad-b91b-ced13e3bfdd6"
+        ],
+        "total_price_in_cents": 19264
+    },
+    {
+        "location_id": "93a4f0e5-c263-487c-a361-646e8a04e171",
+        "listing_ids": [
+            "a7d492d3-e923-45cf-9741-4697523a3a64"
+        ],
+        "total_price_in_cents": 19329
+    },
+    {
+        "location_id": "f0b98016-09c2-43d4-a5ba-e0f5c1d0fdca",
+        "listing_ids": [
+            "eb3d5a08-9cd5-4b82-bb71-c40922bc4a4b"
+        ],
+        "total_price_in_cents": 19345
+    },
+    {
+        "location_id": "ebcf5118-9987-449b-9103-7af029f3f21e",
+        "listing_ids": [
+            "e535e253-027f-4e56-8bb6-35287759b114"
+        ],
+        "total_price_in_cents": 19454
+    },
+    {
+        "location_id": "8d6247a6-5205-451e-a6a3-9e536645c0b5",
+        "listing_ids": [
+            "44021be8-55b9-492a-b2f4-41a7cad8ecb7"
+        ],
+        "total_price_in_cents": 19457
+    },
+    {
+        "location_id": "6750a2f4-76a0-4609-acfa-5c08f2d59fe3",
+        "listing_ids": [
+            "4a7937a4-312c-4248-b0f5-5089391fa62a"
+        ],
+        "total_price_in_cents": 19485
+    },
+    {
+        "location_id": "030cab32-5285-45b5-bf07-1ef9f9721cae",
+        "listing_ids": [
+            "96911080-f5d5-412b-9795-d908ed963e13"
+        ],
+        "total_price_in_cents": 19670
+    },
+    {
+        "location_id": "1a8c7de0-3547-4573-9d00-0ecfee894753",
+        "listing_ids": [
+            "08b52fe6-0301-46c8-81a2-413e6020028d"
+        ],
+        "total_price_in_cents": 19677
+    },
+    {
+        "location_id": "f03d3e8b-20f8-48c2-9733-f1ddaf89f573",
+        "listing_ids": [
+            "fb12554f-9ecb-4d6e-8d2f-76dfe3b81099"
+        ],
+        "total_price_in_cents": 19978
+    },
+    {
+        "location_id": "a07ec755-4d15-4d94-be12-cb0c25420825",
+        "listing_ids": [
+            "ec5fae52-a051-457b-9096-6c7a15ec7433"
+        ],
+        "total_price_in_cents": 20023
+    },
+    {
+        "location_id": "d21b2f6b-1f0d-432f-8d45-725ab35aacb9",
+        "listing_ids": [
+            "bd32e391-cb5b-42e5-8c60-58d00e2cac5c"
+        ],
+        "total_price_in_cents": 20025
+    },
+    {
+        "location_id": "b164cc74-269c-4fbc-af32-7547f7602366",
+        "listing_ids": [
+            "da08da27-089b-4bc1-9ec4-41f4b65063ab"
+        ],
+        "total_price_in_cents": 20080
+    },
+    {
+        "location_id": "8eee1a9c-bcd1-45a7-a950-df2dda8c895d",
+        "listing_ids": [
+            "bd88f575-ea78-4057-bb46-9008ccc74735"
+        ],
+        "total_price_in_cents": 20347
+    },
+    {
+        "location_id": "7de08591-79db-4312-8fe2-2c50fdb8f08b",
+        "listing_ids": [
+            "7d949e64-692f-4018-a956-830211a05c00"
+        ],
+        "total_price_in_cents": 20559
+    },
+    {
+        "location_id": "0df89e8a-6c67-40fc-82ee-b5288d7f4ad2",
+        "listing_ids": [
+            "89463df1-ebc0-4c99-bdcc-c76b792a3a04"
+        ],
+        "total_price_in_cents": 20602
+    },
+    {
+        "location_id": "b3c7ed18-5aae-432d-bc46-985e65bb5e78",
+        "listing_ids": [
+            "0165bdee-bf4a-4deb-83c8-f8722c9ba90f"
+        ],
+        "total_price_in_cents": 20830
+    },
+    {
+        "location_id": "0bcea762-ece2-44aa-ae8c-6371f351ef63",
+        "listing_ids": [
+            "bc2e0d4b-70e4-413d-b67a-6d601f529aad"
+        ],
+        "total_price_in_cents": 21240
+    },
+    {
+        "location_id": "2f33121b-8fe4-4d69-b25d-fd6e6eddb095",
+        "listing_ids": [
+            "78e169ae-ca7c-43df-8f5e-e4ad42e046d4"
+        ],
+        "total_price_in_cents": 21841
+    },
+    {
+        "location_id": "76c8afb1-28f9-4e9a-abb1-e6f325630b38",
+        "listing_ids": [
+            "dfaeea79-881d-4901-9da3-ab04d49b5fa1"
+        ],
+        "total_price_in_cents": 21890
+    },
+    {
+        "location_id": "56d261b5-f7f2-4e63-bc6c-ec508cfb2287",
+        "listing_ids": [
+            "0830e386-3ef3-4970-8f84-a297930a7f54"
+        ],
+        "total_price_in_cents": 22056
+    },
+    {
+        "location_id": "d6b4c936-7134-4e53-8c07-a853fca43c09",
+        "listing_ids": [
+            "7652f762-c01e-476c-b8af-52ef42989f21"
+        ],
+        "total_price_in_cents": 22559
+    },
+    {
+        "location_id": "9fdee5c2-c614-405b-9a08-d7ee4f8ca2b0",
+        "listing_ids": [
+            "65497edb-7f67-401d-9340-1b9f0af22796"
+        ],
+        "total_price_in_cents": 22626
+    },
+    {
+        "location_id": "20d3d10c-ca7f-4c2b-8477-b26e19aa0734",
+        "listing_ids": [
+            "e5622780-a30d-4f36-bec1-7cf0e79cc4dd"
+        ],
+        "total_price_in_cents": 22757
+    },
+    {
+        "location_id": "57523bdd-fdf0-4b96-a689-6d4e22bbd68c",
+        "listing_ids": [
+            "807430b2-ef84-426e-903a-0851ca491492"
+        ],
+        "total_price_in_cents": 22826
+    },
+    {
+        "location_id": "e03804e6-8733-4f46-8209-7228b5f4d725",
+        "listing_ids": [
+            "6e30ae09-a722-4264-baa2-c9749eb85a21"
+        ],
+        "total_price_in_cents": 22870
+    },
+    {
+        "location_id": "4573b3a2-2e7b-4b76-baa4-19ad1cb1488f",
+        "listing_ids": [
+            "df6d5089-1144-4337-8114-673f6bcf6fbc"
+        ],
+        "total_price_in_cents": 22905
+    },
+    {
+        "location_id": "b50f9445-ccbe-4cbb-90c8-4e4caf5cab97",
+        "listing_ids": [
+            "b3b3a771-9bf6-4874-b2a7-66aa26ccfa3f"
+        ],
+        "total_price_in_cents": 23101
+    },
+    {
+        "location_id": "d436341a-5432-4363-8387-3b63c565b2a9",
+        "listing_ids": [
+            "01d19f4c-e0e3-48b7-b5f6-6ceea7ef114b"
+        ],
+        "total_price_in_cents": 23442
+    },
+    {
+        "location_id": "902590ee-cd35-4251-ad63-13488a7efed2",
+        "listing_ids": [
+            "238c8c1b-1144-4f22-8723-296dc4213526"
+        ],
+        "total_price_in_cents": 23842
+    },
+    {
+        "location_id": "d6944deb-fea1-40e8-88d5-214d4c60fe62",
+        "listing_ids": [
+            "69e9ee46-4db5-4fe4-a70e-7b2ccf1e2957"
+        ],
+        "total_price_in_cents": 24037
+    },
+    {
+        "location_id": "4f71c1a6-47d4-4612-b721-0193fb326ff9",
+        "listing_ids": [
+            "b470c329-a4e1-4206-95d3-b33c60ef64fc"
+        ],
+        "total_price_in_cents": 24383
+    },
+    {
+        "location_id": "0c680163-785e-46a1-9db7-b29952445ab7",
+        "listing_ids": [
+            "009e06ae-bf8c-4de6-b35a-31aad9330b48"
+        ],
+        "total_price_in_cents": 24676
+    },
+    {
+        "location_id": "6a4abf15-e6a4-41e9-8bd5-75b93b604318",
+        "listing_ids": [
+            "12e620b9-0381-4cd3-b3b3-8f535737e0cd"
+        ],
+        "total_price_in_cents": 25056
+    },
+    {
+        "location_id": "77a5fc83-eb60-4955-83f5-338c9d95ed93",
+        "listing_ids": [
+            "7a41f692-c454-4b31-9089-653089fe9b0d"
+        ],
+        "total_price_in_cents": 25322
+    },
+    {
+        "location_id": "1480287e-2a70-4a4f-bf26-64148c93a007",
+        "listing_ids": [
+            "fe86c6ad-9108-448d-b090-c6d8e36e2897"
+        ],
+        "total_price_in_cents": 25363
+    },
+    {
+        "location_id": "07d0e3bc-2f27-40da-89d5-3b9e9f8822e4",
+        "listing_ids": [
+            "301f770f-eba5-4098-b62e-3f5327e11feb"
+        ],
+        "total_price_in_cents": 25551
+    },
+    {
+        "location_id": "3815316e-f62e-4d79-82f5-b96aa2b97fd3",
+        "listing_ids": [
+            "30615efb-8edc-42a6-97a0-2620a3922dfe"
+        ],
+        "total_price_in_cents": 25595
+    },
+    {
+        "location_id": "f48d8bc8-6f54-401f-86d1-1045e65fad5e",
+        "listing_ids": [
+            "7aaf3935-edef-49df-ab4f-c9cd5a4fd7a7"
+        ],
+        "total_price_in_cents": 25805
+    },
+    {
+        "location_id": "d355da40-15ae-4a07-9ce2-57a544c9c753",
+        "listing_ids": [
+            "0b9b1727-1d54-420f-948c-ebbe0bc9b9b9"
+        ],
+        "total_price_in_cents": 25883
+    },
+    {
+        "location_id": "95f09f28-84de-4a40-bd93-277bbdaa68b0",
+        "listing_ids": [
+            "80d9fa86-53fc-413c-bf46-59ff9ecdbb6e"
+        ],
+        "total_price_in_cents": 26026
+    },
+    {
+        "location_id": "28c22630-ae2c-41b9-af6d-b7a09d768064",
+        "listing_ids": [
+            "de70dbb9-a7d3-4f6a-995d-0b5890d23980"
+        ],
+        "total_price_in_cents": 26072
+    },
+    {
+        "location_id": "b4bef2aa-0fb9-42a4-b37b-274332326134",
+        "listing_ids": [
+            "99431ece-c588-4a0c-bd63-67bb208a1ba5"
+        ],
+        "total_price_in_cents": 26173
+    },
+    {
+        "location_id": "2db259e6-9e8b-4c55-a826-172ee16cd914",
+        "listing_ids": [
+            "e7a0ea34-3b37-4095-9779-a106d7c4aa64"
+        ],
+        "total_price_in_cents": 26385
+    },
+    {
+        "location_id": "1aaec935-f242-402d-9e65-e663511f1a45",
+        "listing_ids": [
+            "cfc2370e-fd2c-405e-a294-b86385bdbc4f"
+        ],
+        "total_price_in_cents": 26693
+    },
+    {
+        "location_id": "9c47d96b-0261-4039-bb9e-e85a28f95b0a",
+        "listing_ids": [
+            "10dee646-8815-4311-9246-33c58ad528f6"
+        ],
+        "total_price_in_cents": 26764
+    },
+    {
+        "location_id": "c6290c0c-3bfd-4b51-84fb-ea99a9f1b806",
+        "listing_ids": [
+            "c9ba7dd5-38ad-4d41-8cde-13fe011dd0cb"
+        ],
+        "total_price_in_cents": 26911
+    },
+    {
+        "location_id": "f73554ab-9431-4316-8c8c-7c13c34a54c8",
+        "listing_ids": [
+            "48466da8-4535-40ec-9ada-a3340a1b3e1a"
+        ],
+        "total_price_in_cents": 27128
+    },
+    {
+        "location_id": "289dc1ae-ca16-4f1f-a16b-3d0773282218",
+        "listing_ids": [
+            "99163e2b-9ec5-41d8-8674-4ae899ca5c71"
+        ],
+        "total_price_in_cents": 27257
+    },
+    {
+        "location_id": "6fc48114-640e-4e0b-bc9a-388d3ad83ef5",
+        "listing_ids": [
+            "f710da06-206e-4bcf-a9e7-3d3a07c6ed70"
+        ],
+        "total_price_in_cents": 27258
+    },
+    {
+        "location_id": "4df3bd24-f853-4525-8b5b-e5a913c1b308",
+        "listing_ids": [
+            "394ff29e-2b91-4ec8-8f0b-6d195f7bb8eb"
+        ],
+        "total_price_in_cents": 28078
+    },
+    {
+        "location_id": "a7df4a7a-c59d-4fac-b617-1c881b7e7848",
+        "listing_ids": [
+            "fbb35a34-7e4f-4aca-9b91-1dda739fee7c"
+        ],
+        "total_price_in_cents": 28270
+    },
+    {
+        "location_id": "5c8dc24d-4882-47e5-b294-618c0fdc8247",
+        "listing_ids": [
+            "dc2b4e95-496f-4fc0-9a2e-faab2d9c978f"
+        ],
+        "total_price_in_cents": 28279
+    },
+    {
+        "location_id": "65942118-068e-45d6-ac54-338edd35f503",
+        "listing_ids": [
+            "2b0d4c3f-9f70-4901-a368-89b1d3961a70"
+        ],
+        "total_price_in_cents": 28691
+    },
+    {
+        "location_id": "b77d530e-06b1-493d-85d6-d2264d9be77c",
+        "listing_ids": [
+            "1fb4dc74-458f-4542-bd01-0741941fa262"
+        ],
+        "total_price_in_cents": 29093
+    },
+    {
+        "location_id": "e8448cbc-408b-4561-ae83-2913da69d045",
+        "listing_ids": [
+            "d7021f91-4367-4884-ada1-3c445fe413e1"
+        ],
+        "total_price_in_cents": 29378
+    },
+    {
+        "location_id": "e708b7bf-39c3-4a0d-9168-8508bc9ac897",
+        "listing_ids": [
+            "841d4e62-6c35-4096-8db1-bdb435027165"
+        ],
+        "total_price_in_cents": 29830
+    },
+    {
+        "location_id": "a9f3bc26-e8c4-437d-9cd7-d77180f288a4",
+        "listing_ids": [
+            "a0e72dee-b215-40b4-9484-a798b8e5899a"
+        ],
+        "total_price_in_cents": 29874
+    },
+    {
+        "location_id": "fef29a88-356f-4ad8-af16-2a5bb33a4df8",
+        "listing_ids": [
+            "f3d18a45-468b-4c12-a474-874c521ac19d"
+        ],
+        "total_price_in_cents": 29875
+    },
+    {
+        "location_id": "19ce714b-bbf8-4431-8003-228b1d848732",
+        "listing_ids": [
+            "4d4f4e1c-7f2b-45c4-a6bc-96cc76225498"
+        ],
+        "total_price_in_cents": 30568
+    },
+    {
+        "location_id": "a8065eb5-63f7-418c-93f9-1c52a8c1803f",
+        "listing_ids": [
+            "f9a8253d-e440-41cd-81dd-4555f91fe95e"
+        ],
+        "total_price_in_cents": 30805
+    },
+    {
+        "location_id": "008f42b9-c57b-4b76-9381-1788ae9b0718",
+        "listing_ids": [
+            "d57ab61b-5b55-4d44-9ebe-f758720804b7"
+        ],
+        "total_price_in_cents": 30818
+    },
+    {
+        "location_id": "98db807b-7099-464e-8c57-befd979d2391",
+        "listing_ids": [
+            "c9964897-3ecd-42ff-a6b1-5f832f17f527"
+        ],
+        "total_price_in_cents": 30865
+    },
+    {
+        "location_id": "70d2cc7f-076e-4f01-8302-49daa98d620a",
+        "listing_ids": [
+            "308d96f6-4982-494a-a7d1-3161edd107c1"
+        ],
+        "total_price_in_cents": 31037
+    },
+    {
+        "location_id": "3bcb4cc7-a544-44bd-8d3a-2e0efa5f5c9c",
+        "listing_ids": [
+            "d3ee742c-f91c-4e3c-a37a-dbd5c95c2ae1"
+        ],
+        "total_price_in_cents": 31129
+    },
+    {
+        "location_id": "30c6b82d-cf3d-4e1c-a27f-88798540f8b9",
+        "listing_ids": [
+            "bcf71012-340b-4691-9e7f-6da2a44d8149"
+        ],
+        "total_price_in_cents": 31142
+    },
+    {
+        "location_id": "b1f44bbc-3694-44a8-8998-1ecfaf77b2f4",
+        "listing_ids": [
+            "9cee3d07-ee19-45af-b358-e211e15a8ccd"
+        ],
+        "total_price_in_cents": 32059
+    },
+    {
+        "location_id": "4ae50678-0997-4229-9c9c-25cfbb1a42d6",
+        "listing_ids": [
+            "cdcdb7a4-06bd-495a-831a-249e2b89785f"
+        ],
+        "total_price_in_cents": 32068
+    },
+    {
+        "location_id": "2095cf15-8a0f-4b16-809c-851c2745bfdc",
+        "listing_ids": [
+            "b1dfadb3-7837-4de5-a160-e72c40229ee6"
+        ],
+        "total_price_in_cents": 32224
+    },
+    {
+        "location_id": "76c41726-5afc-4782-9197-4b2058d97cbb",
+        "listing_ids": [
+            "196849c3-f246-4d1d-9a29-89691226aed6"
+        ],
+        "total_price_in_cents": 32287
+    },
+    {
+        "location_id": "84a18074-bff3-4762-91c8-872d686caa8d",
+        "listing_ids": [
+            "2d5bcfd7-b7bf-45dd-b1ba-3af4707db7ef"
+        ],
+        "total_price_in_cents": 32572
+    },
+    {
+        "location_id": "1aebc02f-05b3-49fd-aabc-fad00c0dba0a",
+        "listing_ids": [
+            "05a1ec51-1c93-4eef-8445-faec4e23d50b"
+        ],
+        "total_price_in_cents": 32600
+    },
+    {
+        "location_id": "a28f7523-f15a-42ce-806a-8c7655c8ed9d",
+        "listing_ids": [
+            "f3bf1b2e-065a-444a-97b0-faa0f14d4495"
+        ],
+        "total_price_in_cents": 32777
+    },
+    {
+        "location_id": "0554d1e8-14e2-4e1b-af0e-44f4ff835f62",
+        "listing_ids": [
+            "8b8f8873-d5fb-4500-983a-a3d41fce0c46"
+        ],
+        "total_price_in_cents": 32832
+    },
+    {
+        "location_id": "126d4026-46f1-4f46-a8cd-bd7016c55591",
+        "listing_ids": [
+            "1be9e5a3-33be-44c5-a793-6aa2b402e982"
+        ],
+        "total_price_in_cents": 32949
+    },
+    {
+        "location_id": "ad8cf165-45b6-4fe5-8b4e-3a4bb4f07365",
+        "listing_ids": [
+            "06dc7250-595d-45bf-9c21-5709c36144a3"
+        ],
+        "total_price_in_cents": 33046
+    },
+    {
+        "location_id": "5979cfbe-d3d1-4411-9dd4-4d41037175df",
+        "listing_ids": [
+            "d8d3dfcc-65c2-4050-b1e8-9210927a9a0b"
+        ],
+        "total_price_in_cents": 33284
+    },
+    {
+        "location_id": "0d6e10b3-5866-48ee-b4fd-22ef8fe6fbfb",
+        "listing_ids": [
+            "83d1dedd-399c-410e-8444-84f88d6e5d3a"
+        ],
+        "total_price_in_cents": 33326
+    },
+    {
+        "location_id": "efb56fc6-89ac-4bc5-8b64-2d9731c2ad6a",
+        "listing_ids": [
+            "679b4a5a-6c54-4db7-bbc8-9bf6e9dcb656"
+        ],
+        "total_price_in_cents": 33736
+    },
+    {
+        "location_id": "78d36242-b29f-44e3-92b4-f4ab17dc0c76",
+        "listing_ids": [
+            "16d2b17d-4e26-4849-9be0-a4b89a1d18ff"
+        ],
+        "total_price_in_cents": 33879
+    },
+    {
+        "location_id": "4b54fffb-3990-41e5-988a-2782047622a6",
+        "listing_ids": [
+            "4bc90426-d8b9-4b9e-a046-13c813bc0ea5"
+        ],
+        "total_price_in_cents": 34277
+    },
+    {
+        "location_id": "d279818d-b125-41dd-97c5-c34eba4f50f8",
+        "listing_ids": [
+            "3229317a-09fe-4700-b50d-22e29b3356bc"
+        ],
+        "total_price_in_cents": 34315
+    },
+    {
+        "location_id": "4028de04-38f6-4f9b-8144-b313f0cbff1d",
+        "listing_ids": [
+            "da6c636d-0f26-4826-8fa3-187c9c771227"
+        ],
+        "total_price_in_cents": 34807
+    },
+    {
+        "location_id": "f423fd49-50fc-4934-b958-4f2a7dec5598",
+        "listing_ids": [
+            "3d5765d6-a6e5-49db-9531-87f4a807c1e3"
+        ],
+        "total_price_in_cents": 34845
+    },
+    {
+        "location_id": "ebdcefa4-bf61-4af0-9880-755fdf3a4221",
+        "listing_ids": [
+            "f5e817c9-542a-4ea2-ad34-67fbe83ae26a"
+        ],
+        "total_price_in_cents": 34982
+    },
+    {
+        "location_id": "18fe153f-b353-40b0-a9c8-d2add028b88c",
+        "listing_ids": [
+            "1f556cc2-b4f0-4a65-b75b-1ee8b6ea54b7"
+        ],
+        "total_price_in_cents": 35012
+    },
+    {
+        "location_id": "c5aeff80-3d50-44a8-bf06-8ab7a508cbe8",
+        "listing_ids": [
+            "c37896d0-5bb9-43ac-99bb-2380412c383e"
+        ],
+        "total_price_in_cents": 35669
+    },
+    {
+        "location_id": "de78eaa2-8570-4166-9806-c4a696f18402",
+        "listing_ids": [
+            "9f2af068-a002-4a37-a7b3-67feb169a554"
+        ],
+        "total_price_in_cents": 35808
+    },
+    {
+        "location_id": "62071137-218e-4aff-a7f0-abb095c301c4",
+        "listing_ids": [
+            "63f7615c-f3eb-486f-8bc9-e1c1ac630ba3"
+        ],
+        "total_price_in_cents": 35884
+    },
+    {
+        "location_id": "4ee110d9-5231-42ba-9c5e-fab038affe3f",
+        "listing_ids": [
+            "60c15822-020a-4de7-a133-fcc28be5578f"
+        ],
+        "total_price_in_cents": 35976
+    },
+    {
+        "location_id": "ca34618b-62fb-423a-b2a5-1ecb5a77a933",
+        "listing_ids": [
+            "fab9f640-108d-49e2-b0f4-22628cfc5698"
+        ],
+        "total_price_in_cents": 36843
+    },
+    {
+        "location_id": "8389c1ce-9b67-44ee-a14c-9451ab0c35c8",
+        "listing_ids": [
+            "0300b7e5-4efb-452f-a2ed-f74f13e858a3"
+        ],
+        "total_price_in_cents": 37877
+    },
+    {
+        "location_id": "a20afd34-d894-4ec2-9e5f-0aa241f103a6",
+        "listing_ids": [
+            "f341b97c-b03d-4a20-a332-a8b510a5b117"
+        ],
+        "total_price_in_cents": 37882
+    },
+    {
+        "location_id": "3a488991-fe4f-4f86-bcbf-c3ff7188e2fc",
+        "listing_ids": [
+            "4226c1f8-8f02-4841-b38e-4bde4083ed5a"
+        ],
+        "total_price_in_cents": 37955
+    },
+    {
+        "location_id": "4fc64e3b-b7d7-4d47-8bc1-17fe8f32816b",
+        "listing_ids": [
+            "f2a94fc0-d579-415f-949d-3fb44e38b2f6"
+        ],
+        "total_price_in_cents": 38985
+    },
+    {
+        "location_id": "989e8f75-803c-4c4b-854b-444f699a57e6",
+        "listing_ids": [
+            "43144151-8a3f-4103-9668-8413751da364"
+        ],
+        "total_price_in_cents": 39438
+    },
+    {
+        "location_id": "37700a3b-f3ea-4428-b296-3736fd0adec9",
+        "listing_ids": [
+            "d1daad4d-d8c1-4b25-9ded-26d7404fe539"
+        ],
+        "total_price_in_cents": 39752
+    },
+    {
+        "location_id": "6df35236-b33b-4cf4-bd3e-108cbb1b4af2",
+        "listing_ids": [
+            "2fc408e5-0aec-4125-a86c-3c193e10bada"
+        ],
+        "total_price_in_cents": 39798
+    },
+    {
+        "location_id": "e5526bb4-99b9-4baf-b9b0-b9649af87a61",
+        "listing_ids": [
+            "dbd487c5-34b4-4f0a-bef0-8c547421c469"
+        ],
+        "total_price_in_cents": 39969
+    },
+    {
+        "location_id": "e3eee6a8-a1db-412a-a3e8-641ca2de364e",
+        "listing_ids": [
+            "e3adfb43-bf01-48f7-93f8-8eb010135f7d"
+        ],
+        "total_price_in_cents": 40038
+    },
+    {
+        "location_id": "d0ee8fbc-5ec0-4f62-8bde-509dad10be69",
+        "listing_ids": [
+            "b053aa74-6f70-4c75-8148-a53185b12539"
+        ],
+        "total_price_in_cents": 40123
+    },
+    {
+        "location_id": "8210d6a0-9a77-4186-a3e1-ac5a0de1ca44",
+        "listing_ids": [
+            "07f0aac0-117b-4e55-afda-a5c4341f9021"
+        ],
+        "total_price_in_cents": 40299
+    },
+    {
+        "location_id": "0639f958-3842-40c2-870c-53bdc4e41d4d",
+        "listing_ids": [
+            "8b295ab0-d515-40bf-883b-0a36305802e4"
+        ],
+        "total_price_in_cents": 40330
+    },
+    {
+        "location_id": "161b6fd0-c52d-4189-bc55-478d1242cdd8",
+        "listing_ids": [
+            "758bf335-9db9-4dcd-84b3-a40152b28125"
+        ],
+        "total_price_in_cents": 40552
+    },
+    {
+        "location_id": "b0a33de9-acd3-4eff-81cf-47e1f7a64bf1",
+        "listing_ids": [
+            "508a703a-8c28-4adf-af7d-ca43fec28e60"
+        ],
+        "total_price_in_cents": 41052
+    },
+    {
+        "location_id": "73f9bd84-844c-40a7-b7ce-d73023156471",
+        "listing_ids": [
+            "5a969950-adb5-4b72-91af-201fb0e95617"
+        ],
+        "total_price_in_cents": 41376
+    },
+    {
+        "location_id": "bd033289-65fb-4211-8b74-b496a557ae57",
+        "listing_ids": [
+            "af63d2ee-b5ad-4375-82c7-c68e4992725f"
+        ],
+        "total_price_in_cents": 41560
+    },
+    {
+        "location_id": "7c7f44a5-1fac-407a-b99d-92045830aeea",
+        "listing_ids": [
+            "4bdbc133-760a-4d6b-9986-84e1ad199197"
+        ],
+        "total_price_in_cents": 41564
+    },
+    {
+        "location_id": "5d1f9635-713e-4894-a22d-87d97d06a177",
+        "listing_ids": [
+            "573bcd3b-7a2c-42e9-a0e1-f966e60bcc56"
+        ],
+        "total_price_in_cents": 41749
+    },
+    {
+        "location_id": "eb1b4c24-9323-4b19-9b63-2721ec2fba7f",
+        "listing_ids": [
+            "28f6682a-ec2f-4790-8dc6-38e831cdbe58"
+        ],
+        "total_price_in_cents": 41930
+    },
+    {
+        "location_id": "f7ede428-48f5-42d2-95f9-cf08fe03ce98",
+        "listing_ids": [
+            "bc2da683-9894-4b91-8173-df3692efdc83"
+        ],
+        "total_price_in_cents": 41984
+    },
+    {
+        "location_id": "8181447a-7745-457b-8875-d5d8caba50cd",
+        "listing_ids": [
+            "7cd7d74c-17d9-4909-86e4-bae291c3faa8"
+        ],
+        "total_price_in_cents": 42685
+    },
+    {
+        "location_id": "3df091d6-60b9-424d-9438-8813b9dab55d",
+        "listing_ids": [
+            "64277ac7-e2dc-4d41-8bb6-56adca0cb6c8"
+        ],
+        "total_price_in_cents": 42783
+    },
+    {
+        "location_id": "a3671e70-ea45-4fe2-a694-a829172fd535",
+        "listing_ids": [
+            "1f86cc13-8af5-4faa-ba33-3fa64652a257"
+        ],
+        "total_price_in_cents": 42991
+    },
+    {
+        "location_id": "c50ef81e-38ef-4afa-848d-de461b677d09",
+        "listing_ids": [
+            "fde986f7-b37c-424f-a4e7-fa4acf738975"
+        ],
+        "total_price_in_cents": 43074
+    },
+    {
+        "location_id": "984d72be-30e1-4d64-a1f3-84f5577259e7",
+        "listing_ids": [
+            "63d02b57-f808-4ae2-ba55-3d1e8a732392"
+        ],
+        "total_price_in_cents": 43530
+    },
+    {
+        "location_id": "4afe00fb-0002-494e-b239-509412c4f174",
+        "listing_ids": [
+            "aca883b7-f26b-4357-88ae-a1317f8ecc96"
+        ],
+        "total_price_in_cents": 43563
+    },
+    {
+        "location_id": "93f1178d-2bfc-44dd-bee6-3969fa8306a5",
+        "listing_ids": [
+            "1ea113b4-cffd-4e3c-9b4d-f01e8358302e"
+        ],
+        "total_price_in_cents": 43785
+    },
+    {
+        "location_id": "c1db9c11-3926-4ed9-a000-f0a299d9152d",
+        "listing_ids": [
+            "b7b48695-40e0-42fa-ac8b-f497606e8437"
+        ],
+        "total_price_in_cents": 44353
+    },
+    {
+        "location_id": "e91dc9ee-20af-4d1b-a089-b03fb9a382ad",
+        "listing_ids": [
+            "8774e45f-488e-4180-94c6-7119bb9b5a1f"
+        ],
+        "total_price_in_cents": 44471
+    },
+    {
+        "location_id": "90b2233d-c53e-464d-b47f-fa94ea2c70fe",
+        "listing_ids": [
+            "858cdf87-58d7-409e-b0c9-85ea9ed64682"
+        ],
+        "total_price_in_cents": 45351
+    },
+    {
+        "location_id": "6761aeac-46a6-4e3f-902a-bb94ec37c320",
+        "listing_ids": [
+            "21e9824c-1cb8-4f68-afbc-3c4a62017522"
+        ],
+        "total_price_in_cents": 45462
+    },
+    {
+        "location_id": "a3569f28-6b65-446f-9b26-40efc75b6acd",
+        "listing_ids": [
+            "367fe97c-2bb6-4ac4-b7cc-42cda532f157"
+        ],
+        "total_price_in_cents": 45737
+    },
+    {
+        "location_id": "6f70a57c-2b08-4f02-9279-0fea79e953e5",
+        "listing_ids": [
+            "bc91b702-d0a4-4fc8-b28c-bf0cc6728ec0"
+        ],
+        "total_price_in_cents": 45912
+    },
+    {
+        "location_id": "c6c1d727-f456-43a9-a850-622251bcdaa9",
+        "listing_ids": [
+            "d82fe9c3-f3e2-4a14-99cd-fdb8a46322bb"
+        ],
+        "total_price_in_cents": 46258
+    },
+    {
+        "location_id": "cfeeb486-1864-4e24-ac2b-52b26b703b36",
+        "listing_ids": [
+            "eb1dfe89-1491-40c6-a909-f0c52dd4b156"
+        ],
+        "total_price_in_cents": 46444
+    },
+    {
+        "location_id": "a6818cbf-dacb-4959-8cab-610ccc012e0b",
+        "listing_ids": [
+            "d3baff16-e249-46fc-8b01-7b75d3b7b6aa"
+        ],
+        "total_price_in_cents": 46646
+    },
+    {
+        "location_id": "cac861a2-e267-4cd4-b803-34a0e5350c4a",
+        "listing_ids": [
+            "e6c3bc91-900f-49b1-ac4a-a4ef08ce4ae8"
+        ],
+        "total_price_in_cents": 47108
+    },
+    {
+        "location_id": "255d4e21-ecf6-46e4-84fe-058af7db5cc2",
+        "listing_ids": [
+            "0abd1c3a-9798-4f48-b909-4ce2283fffef"
+        ],
+        "total_price_in_cents": 48748
+    },
+    {
+        "location_id": "95caea4a-ee1c-4acd-841c-6fe879ba419c",
+        "listing_ids": [
+            "08442163-b6a8-42bc-bda5-28b758bcc8a0"
+        ],
+        "total_price_in_cents": 49210
+    },
+    {
+        "location_id": "554f8af1-daef-4019-94c5-3c57bcd3eaaa",
+        "listing_ids": [
+            "12647d6a-7546-4940-a17f-1c15f3de94f2"
+        ],
+        "total_price_in_cents": 50057
+    },
+    {
+        "location_id": "2efffcb1-8eb2-41e3-96b1-7447e22cb111",
+        "listing_ids": [
+            "6450c10e-230a-4edf-8d12-4e12cdb513c9"
+        ],
+        "total_price_in_cents": 50459
+    },
+    {
+        "location_id": "1f739e17-f98e-44b0-a973-55497a732867",
+        "listing_ids": [
+            "d1350f56-6adb-4f1a-970d-e67c6c3b033d"
+        ],
+        "total_price_in_cents": 50609
+    },
+    {
+        "location_id": "c2b4895d-81de-40f2-a826-ea96d87f071e",
+        "listing_ids": [
+            "c72cf260-ada5-4398-b1c6-04c0d148f437"
+        ],
+        "total_price_in_cents": 50731
+    },
+    {
+        "location_id": "4fd3ba46-7a6f-4d35-beef-8f3be267a02c",
+        "listing_ids": [
+            "79a33017-795b-4171-9330-692b162cd6cb"
+        ],
+        "total_price_in_cents": 50802
+    },
+    {
+        "location_id": "e148daff-98ec-4836-a22e-13b05f88445b",
+        "listing_ids": [
+            "1368fabc-6840-47fa-8497-c4cb0c082c4d"
+        ],
+        "total_price_in_cents": 51291
+    },
+    {
+        "location_id": "f7bc24a3-1670-4671-932e-e26c526de067",
+        "listing_ids": [
+            "c101eb23-98da-4817-a84e-0e24c1185db7"
+        ],
+        "total_price_in_cents": 51439
+    },
+    {
+        "location_id": "f0f95bb1-5d21-4a72-ae36-5410624c98df",
+        "listing_ids": [
+            "fa5a1942-21cc-4837-9595-71bb850fda91"
+        ],
+        "total_price_in_cents": 51719
+    },
+    {
+        "location_id": "3a41e2c2-581f-414d-a6f0-39e57a45f66f",
+        "listing_ids": [
+            "110e09e4-ef88-4414-b666-d4f340672942"
+        ],
+        "total_price_in_cents": 52305
+    },
+    {
+        "location_id": "8a8a6095-c98e-42b1-96c0-874f5080d5a6",
+        "listing_ids": [
+            "ceabc373-5638-45b5-999b-6ef2d710b6a1"
+        ],
+        "total_price_in_cents": 52330
+    },
+    {
+        "location_id": "82010f90-b7c4-4453-9799-63bf4c416dad",
+        "listing_ids": [
+            "6d6a0155-0b84-47db-9ba1-977087c58c70"
+        ],
+        "total_price_in_cents": 52376
+    },
+    {
+        "location_id": "f69c2612-6601-4d29-a246-2d74fbd31b35",
+        "listing_ids": [
+            "36f830e7-9362-4233-89d1-40b9d63bfaee"
+        ],
+        "total_price_in_cents": 54894
+    },
+    {
+        "location_id": "46831ab4-b681-40f9-953c-2ab064d5d935",
+        "listing_ids": [
+            "eac30f87-a08c-4947-b27a-45d493b05b6f"
+        ],
+        "total_price_in_cents": 54953
+    },
+    {
+        "location_id": "6781290a-8f2e-4edc-a4ad-e59b8c1df995",
+        "listing_ids": [
+            "be0bcba4-c482-421c-b2fd-d531b929777d"
+        ],
+        "total_price_in_cents": 55122
+    },
+    {
+        "location_id": "15ef6cd4-5d5a-4ced-940b-40889a9bb2a2",
+        "listing_ids": [
+            "d961f1be-d5fc-4339-8c1d-ddc502392a35"
+        ],
+        "total_price_in_cents": 55160
+    },
+    {
+        "location_id": "8807f2c7-c212-43c2-bdb6-d4be6fde5161",
+        "listing_ids": [
+            "5a3a06f5-1cab-4ae7-b8a3-2e3906eea832"
+        ],
+        "total_price_in_cents": 55310
+    },
+    {
+        "location_id": "73f2c87e-8198-45ad-90ef-ce3cbc12431e",
+        "listing_ids": [
+            "b27e937b-88ce-480e-9981-d8c94352ab8e"
+        ],
+        "total_price_in_cents": 55651
+    },
+    {
+        "location_id": "27324bc6-4260-4a18-9b46-7db102000eba",
+        "listing_ids": [
+            "edf1fc46-7d76-4688-90f5-e559e156bc41"
+        ],
+        "total_price_in_cents": 55780
+    },
+    {
+        "location_id": "9f72ed33-68e3-4295-8bb5-f8ac12018a78",
+        "listing_ids": [
+            "f52a3c55-1ecb-40ca-87a8-aa1221734a78"
+        ],
+        "total_price_in_cents": 56253
+    },
+    {
+        "location_id": "d52c8589-513d-42bf-a3c3-1bdfa5ad7794",
+        "listing_ids": [
+            "8a458a97-c438-480f-8244-c7835c965dbc"
+        ],
+        "total_price_in_cents": 56415
+    },
+    {
+        "location_id": "7940d158-98dd-45c8-9e41-a00c54db9239",
+        "listing_ids": [
+            "1fd6727a-f00e-4a4b-a1e7-f4059e00239f"
+        ],
+        "total_price_in_cents": 56520
+    },
+    {
+        "location_id": "b8322837-f44b-4ee6-aa9f-ac11026c8deb",
+        "listing_ids": [
+            "4e6713c2-01ff-43c3-8415-ce2a2a94d993"
+        ],
+        "total_price_in_cents": 56553
+    },
+    {
+        "location_id": "7edd48dd-c680-4ee1-bcf4-d8770794e0c9",
+        "listing_ids": [
+            "a140e122-5b38-4e6e-8a9e-30d7a5698164"
+        ],
+        "total_price_in_cents": 56701
+    },
+    {
+        "location_id": "b46fd150-5f31-425b-b37b-4ee34d0f376a",
+        "listing_ids": [
+            "4797e41d-36f0-4609-a470-c9307164316a"
+        ],
+        "total_price_in_cents": 57398
+    },
+    {
+        "location_id": "5007c76f-95c3-4e0a-beac-ced64005fd52",
+        "listing_ids": [
+            "7b315267-5d55-4b1b-915f-e7fc79e78f5d"
+        ],
+        "total_price_in_cents": 57557
+    },
+    {
+        "location_id": "9b8ea70d-cddb-4c8a-85a4-69d8240beaaa",
+        "listing_ids": [
+            "cbba4976-795a-4efc-b5de-d2985eb8990d"
+        ],
+        "total_price_in_cents": 57848
+    },
+    {
+        "location_id": "b1285cc3-1255-4b61-9271-67e816a57035",
+        "listing_ids": [
+            "ab4e6a6d-f131-4411-a0bb-f652dffad137"
+        ],
+        "total_price_in_cents": 58038
+    },
+    {
+        "location_id": "60733765-f9db-4554-853c-705bdeef61d5",
+        "listing_ids": [
+            "d9713c30-583f-4b8b-90e4-1f0338a57a68"
+        ],
+        "total_price_in_cents": 58064
+    },
+    {
+        "location_id": "9426f4b8-8778-4c6b-aadf-6bbf725b5588",
+        "listing_ids": [
+            "539af5e0-8fc1-4360-975f-2a06e63fd8ea"
+        ],
+        "total_price_in_cents": 59329
+    },
+    {
+        "location_id": "d1c331f1-9ae6-4d8a-9d87-a0cf5cfe1536",
+        "listing_ids": [
+            "d1586b1f-b578-4677-99ec-8e023f7f4e0a"
+        ],
+        "total_price_in_cents": 59402
+    },
+    {
+        "location_id": "cdb43002-90d5-48bb-bf68-17464cdd389a",
+        "listing_ids": [
+            "c5cefe4b-ab6b-4a82-9ebe-8b37ccb3196d"
+        ],
+        "total_price_in_cents": 59748
+    },
+    {
+        "location_id": "3a1424e8-b68a-4c73-a857-b5b7b96ba247",
+        "listing_ids": [
+            "0293b681-1619-4584-869d-de1e4b986da0"
+        ],
+        "total_price_in_cents": 59933
+    },
+    {
+        "location_id": "abbea50a-cdd6-4267-98fc-2fd5b5459e7c",
+        "listing_ids": [
+            "450c629d-ca95-4ff7-97dc-d56852465db9"
+        ],
+        "total_price_in_cents": 61208
+    },
+    {
+        "location_id": "834d7bdb-5d47-4031-b521-bbb170c72757",
+        "listing_ids": [
+            "1b035fa3-692d-4964-a652-0987812ee5ed"
+        ],
+        "total_price_in_cents": 61504
+    },
+    {
+        "location_id": "d54ac3d1-5ab8-4e4f-97eb-4b1078313042",
+        "listing_ids": [
+            "94d5ae58-e0c4-47c3-a925-df42b6f1798a"
+        ],
+        "total_price_in_cents": 62665
+    },
+    {
+        "location_id": "0d2e537e-c2d9-41cf-afa6-ce9dbe26c5f0",
+        "listing_ids": [
+            "25b8792e-ed9f-4fe1-ab67-5a7c78f0145a"
+        ],
+        "total_price_in_cents": 62842
+    },
+    {
+        "location_id": "423f1912-ed5a-4155-af3c-ef4cdcab4bec",
+        "listing_ids": [
+            "bc6fd40f-21fd-44c1-b1ac-000618fda085"
+        ],
+        "total_price_in_cents": 64033
+    },
+    {
+        "location_id": "a849a23c-e3b9-487b-8afe-7963af83bd9e",
+        "listing_ids": [
+            "f1fbede5-5a9f-42e6-a7dc-857a7041c5dc"
+        ],
+        "total_price_in_cents": 64629
+    },
+    {
+        "location_id": "4794b2f2-9ca8-49f5-acd2-15cb2914b5ca",
+        "listing_ids": [
+            "a979546b-ddc5-407b-bd41-c07afcb01665"
+        ],
+        "total_price_in_cents": 64671
+    },
+    {
+        "location_id": "28ad4ddc-df02-4cc5-a333-28a4cd90a13f",
+        "listing_ids": [
+            "f5c7085c-ca63-4046-8758-aea2e9c489f1"
+        ],
+        "total_price_in_cents": 65032
+    },
+    {
+        "location_id": "61ad506f-9400-4c44-871c-3104a4432f30",
+        "listing_ids": [
+            "8df54654-cb16-42b3-be5b-120d64c894c0"
+        ],
+        "total_price_in_cents": 65763
+    },
+    {
+        "location_id": "ad7c4b1b-6534-418b-aaa8-b9ac623ec3fd",
+        "listing_ids": [
+            "81101598-4ebc-4702-9658-ffb8ecefe209"
+        ],
+        "total_price_in_cents": 66952
+    },
+    {
+        "location_id": "1288d487-2661-4323-a8a7-def19f2c051f",
+        "listing_ids": [
+            "b18a37ca-18d6-4c47-84fb-c938a3b89b6d"
+        ],
+        "total_price_in_cents": 67085
+    },
+    {
+        "location_id": "463bcc6d-f5b4-4106-907c-3b8fdb309bd9",
+        "listing_ids": [
+            "47c94f7a-9242-4cb4-ab79-7c7f0e3cdb07"
+        ],
+        "total_price_in_cents": 67417
+    },
+    {
+        "location_id": "c1f8fd90-d711-49f9-888d-5599e7799711",
+        "listing_ids": [
+            "2fe9986d-6492-4ce8-ad33-19aa7515404b"
+        ],
+        "total_price_in_cents": 67435
+    },
+    {
+        "location_id": "8ad3ba9c-71a6-41ff-9f3a-95364cfe62f2",
+        "listing_ids": [
+            "fb8805f7-4e5f-49d6-add7-32f0872b03d7"
+        ],
+        "total_price_in_cents": 67885
+    },
+    {
+        "location_id": "e2a2c497-7c37-41be-aa67-4291b56a1566",
+        "listing_ids": [
+            "e07c535b-8b52-49d2-9e82-446e78a3366d"
+        ],
+        "total_price_in_cents": 68276
+    },
+    {
+        "location_id": "44af1413-9ff0-48ba-b75e-9473b3c2d0f3",
+        "listing_ids": [
+            "df015865-3abd-430c-862b-d1d7c2f05529"
+        ],
+        "total_price_in_cents": 68469
+    },
+    {
+        "location_id": "5021c3f3-9850-43aa-8a92-bb17d3f4ccb1",
+        "listing_ids": [
+            "f5fd3d55-7024-46e3-9da6-a29d153d1717"
+        ],
+        "total_price_in_cents": 68481
+    },
+    {
+        "location_id": "a4ba0b33-1d40-4272-88b2-a35e56362132",
+        "listing_ids": [
+            "ca9a195e-e38c-4b6c-a840-4c11d98ba97e"
+        ],
+        "total_price_in_cents": 70003
+    },
+    {
+        "location_id": "b27f58ca-1df8-42f4-9427-ffbc47f5ea41",
+        "listing_ids": [
+            "a1a266fe-43c7-482f-b70e-ea3415142c25"
+        ],
+        "total_price_in_cents": 70599
+    },
+    {
+        "location_id": "8fadfd87-43f2-4ada-ab45-d9c93cca7f81",
+        "listing_ids": [
+            "feb2a2f2-acb6-455d-8e38-067d9ff3e11e"
+        ],
+        "total_price_in_cents": 71465
+    },
+    {
+        "location_id": "a543ab01-5aa2-416b-80d5-c4214fdcc2d4",
+        "listing_ids": [
+            "22537bdc-af6a-4380-95ac-79b815a5e059"
+        ],
+        "total_price_in_cents": 71943
+    },
+    {
+        "location_id": "d799b92e-b9a5-49ba-8db9-e4f90a7d1ab3",
+        "listing_ids": [
+            "ac1ac762-fc91-42d2-b578-6950d0686bdb"
+        ],
+        "total_price_in_cents": 72553
+    },
+    {
+        "location_id": "5fa462ef-9b26-48a5-baef-2d83c71697c1",
+        "listing_ids": [
+            "43ebfe83-43c4-4f93-83db-14b054979709"
+        ],
+        "total_price_in_cents": 72588
+    },
+    {
+        "location_id": "fdb99f2b-3df6-4f14-a877-2068f46e34bd",
+        "listing_ids": [
+            "64c2eac7-6951-402a-9abf-61d0e9adf019"
+        ],
+        "total_price_in_cents": 72768
+    },
+    {
+        "location_id": "358c232a-c498-4646-9cde-8a5faa90fefe",
+        "listing_ids": [
+            "84b7d8c9-f646-40f3-a6e7-6f0e987de001"
+        ],
+        "total_price_in_cents": 72791
+    },
+    {
+        "location_id": "cd1afc4c-a146-4e69-a387-36bab6923417",
+        "listing_ids": [
+            "3c380045-f342-4722-aa4f-8047187cb378"
+        ],
+        "total_price_in_cents": 73866
+    },
+    {
+        "location_id": "83bc47dd-d78d-4bf2-a030-71d978a1ed2b",
+        "listing_ids": [
+            "8a73e291-b44b-4e78-845e-05f50c0850a4"
+        ],
+        "total_price_in_cents": 74673
+    },
+    {
+        "location_id": "8db385ce-db66-42f0-bfa5-11e4a0cdb1a7",
+        "listing_ids": [
+            "7019a9d1-5fe1-4f58-91b5-58a797e6b3b7"
+        ],
+        "total_price_in_cents": 74740
+    },
+    {
+        "location_id": "96b778c8-7521-4748-b8e7-729ddc2477a9",
+        "listing_ids": [
+            "80380c4c-e133-4da7-9366-8c1e9266e780"
+        ],
+        "total_price_in_cents": 75023
+    },
+    {
+        "location_id": "a88b9b16-4cef-48d9-a792-3dfb1fe8b833",
+        "listing_ids": [
+            "b72be988-4463-4124-86c8-a739e480fdef"
+        ],
+        "total_price_in_cents": 76117
+    },
+    {
+        "location_id": "540458e3-e272-44b9-8bb7-3fe60507cacc",
+        "listing_ids": [
+            "8b72b807-4616-4e2d-9723-3d1928002027"
+        ],
+        "total_price_in_cents": 76211
+    },
+    {
+        "location_id": "06b6c21a-4b6d-4d0a-bbba-c14222ddf984",
+        "listing_ids": [
+            "d1599e6f-d915-4e00-9637-ac5f9d360bf3"
+        ],
+        "total_price_in_cents": 76323
+    },
+    {
+        "location_id": "dea201b3-2abf-4cab-b527-51516e29c457",
+        "listing_ids": [
+            "c00f18e0-d841-42f1-81c1-a05b0222c5a7"
+        ],
+        "total_price_in_cents": 76572
+    },
+    {
+        "location_id": "83937d83-cb56-4e47-abe7-9991e64bde64",
+        "listing_ids": [
+            "e85e4fcb-e576-4e2d-b325-f6d94390339c"
+        ],
+        "total_price_in_cents": 78279
+    },
+    {
+        "location_id": "b0e23dae-9469-4bb8-9cc2-7df1aa0f3437",
+        "listing_ids": [
+            "79f185ff-86a1-4d4b-94cc-f87107cedd32"
+        ],
+        "total_price_in_cents": 78844
+    },
+    {
+        "location_id": "fbcbd953-45b0-40c5-91b0-7b5bfde84c58",
+        "listing_ids": [
+            "d650b7f3-4181-4c9f-ac2d-1fef5d568315"
+        ],
+        "total_price_in_cents": 79824
+    },
+    {
+        "location_id": "da698789-92ab-4325-9ea5-3550553bb9b4",
+        "listing_ids": [
+            "20c05f3c-c2d9-49e0-8952-a05ba73572e3"
+        ],
+        "total_price_in_cents": 80609
+    },
+    {
+        "location_id": "2b0af7ff-2144-4146-a72b-f36be2c0fbcb",
+        "listing_ids": [
+            "fd4c6604-fffd-445c-ba1b-70e2f12d1472"
+        ],
+        "total_price_in_cents": 83301
+    },
+    {
+        "location_id": "9a739128-de0b-4670-bb7a-daf0ec6be062",
+        "listing_ids": [
+            "2ce493a8-666a-4fcf-ae97-d2c0ea375fee"
+        ],
+        "total_price_in_cents": 83963
+    },
+    {
+        "location_id": "582d9d2d-81f3-4a61-b211-5f34291a26c0",
+        "listing_ids": [
+            "b662a53c-90db-4cf1-8c26-dfa60acb353e"
+        ],
+        "total_price_in_cents": 84739
+    },
+    {
+        "location_id": "2ce5f16c-570d-4194-bee6-3b0a135d8d1e",
+        "listing_ids": [
+            "a2140a1c-a79d-4e9b-a635-5c3227493079"
+        ],
+        "total_price_in_cents": 85576
+    },
+    {
+        "location_id": "0833a98c-1518-4b0e-8d6f-711acb802781",
+        "listing_ids": [
+            "44d7e31d-5680-4184-9682-b579105161b3"
+        ],
+        "total_price_in_cents": 89698
+    },
+    {
+        "location_id": "82145830-9e2e-4ac7-a695-cdd539a9e5f7",
+        "listing_ids": [
+            "36bfd4a9-74ea-4e4e-9df8-f2f31833b248"
+        ],
+        "total_price_in_cents": 91956
+    },
+    {
+        "location_id": "ec47793c-4332-4fd3-b9f5-4aa190177e9f",
+        "listing_ids": [
+            "447aa74e-3d2d-4c18-8bdd-573b4beb3cd3"
+        ],
+        "total_price_in_cents": 92090
+    },
+    {
+        "location_id": "86cd870c-61f7-4e8a-883a-f1d5befd655f",
+        "listing_ids": [
+            "71f2eb4f-9941-42f7-8bd1-edc1d2961600"
+        ],
+        "total_price_in_cents": 92140
+    },
+    {
+        "location_id": "75f5c8b4-5d20-4b1c-9df8-03f59694edd2",
+        "listing_ids": [
+            "e2e6b184-470a-4d7c-a29d-0b8c339c271b"
+        ],
+        "total_price_in_cents": 92527
+    },
+    {
+        "location_id": "8c973846-15ab-42e1-82a4-e488dc9f1b58",
+        "listing_ids": [
+            "cde63d90-195d-4ef1-9689-7cdc7ada5140"
+        ],
+        "total_price_in_cents": 95428
+    },
+    {
+        "location_id": "f76d1070-2911-45e2-987a-4cdf9a2d0053",
+        "listing_ids": [
+            "006e4c7d-f60d-4834-812d-b376b06b701a"
+        ],
+        "total_price_in_cents": 96250
+    },
+    {
+        "location_id": "71c90fac-177f-4db0-a03b-2c5a785da5d8",
+        "listing_ids": [
+            "d49d39a1-5e03-40bf-b63b-45966d852873"
+        ],
+        "total_price_in_cents": 97226
+    },
+    {
+        "location_id": "94c74d45-f963-4d0c-ac49-38e4845c0add",
+        "listing_ids": [
+            "3cb23994-9962-4ed0-85e5-c88004619b27"
+        ],
+        "total_price_in_cents": 98772
+    },
+    {
+        "location_id": "22ad1ab7-d49b-49d6-8c30-531599934639",
+        "listing_ids": [
+            "20cf6f5e-eb47-4104-b1f9-62527760a4c0"
+        ],
+        "total_price_in_cents": 99303
+    }
+]
