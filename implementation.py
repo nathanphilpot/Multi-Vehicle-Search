@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Body
-from fastapi.responses import JSONResponse
+from fastapi.responses import PlainTextResponse
 import json
 from collections import defaultdict
 from itertools import combinations, chain
@@ -41,7 +41,7 @@ def process_vehicles(vehicles = Body(...)):
         json.dump(final_results, f, indent=4)
 
     formatted = json.dumps(final_results, indent=4)
-    return JSONResponse(content=json.loads(formatted))
+    return PlainTextResponse(formatted)
 
 
 
