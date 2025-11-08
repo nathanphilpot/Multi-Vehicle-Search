@@ -16,8 +16,6 @@ def say_hello():
     <html>
         <body style="font-family:sans-serif; text-align:center;">
             <h2>Hey Sean!</h2>
-            <p>This is Nathan’s Multi-Vehicle Search API.</p>
-            <p>POST requests go to <code>/</code> with your vehicle data.</p>
         </body>
     </html>
     """
