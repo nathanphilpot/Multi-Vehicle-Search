@@ -1,5 +1,5 @@
 from fastapi import FastAPI, Body
-from fastapi.responses import PlainTextResponse
+from fastapi.responses import PlainTextResponse, HTMLResponse
 import json
 from collections import defaultdict
 from itertools import combinations, chain
@@ -10,9 +10,17 @@ from itertools import combinations, chain
 
 #say hi to Sean
 app = FastAPI()
-@app.get("/")
+@app.get("/", response_class=HTMLResponse)
 def say_hello():
-    return {'Message for Neighbor': 'Hey Sean!'}
+    return """
+    <html>
+        <body style="font-family:sans-serif; text-align:center;">
+            <h2>Hey Sean!</h2>
+            <p>This is Nathan’s Multi-Vehicle Search API.</p>
+            <p>POST requests go to <code>/</code> with your vehicle data.</p>
+        </body>
+    </html>
+    """
 
 #vehicle class for user input
 class Vehicle():
